@@ -1,0 +1,25 @@
+[0.056s] Invoking command in '/home/dev/robot0_ws/build/mobile_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/dev/robot0_ws/build/mobile_robot -- -j4 -l4
+[0.196s] Invoked command in '/home/dev/robot0_ws/build/mobile_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/dev/robot0_ws/build/mobile_robot -- -j4 -l4
+[0.312s] Invoking command in '/home/dev/robot0_ws/build/mobile_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/dev/robot0_ws/build/mobile_robot
+[0.341s] -- Install configuration: ""
+[0.341s] -- Up-to-date: /home/dev/robot0_ws/install/mobile_robot/share/mobile_robot/model
+[0.343s] -- Up-to-date: /home/dev/robot0_ws/install/mobile_robot/share/mobile_robot/model/robot.gazebo.xacro
+[0.343s] -- Up-to-date: /home/dev/robot0_ws/install/mobile_robot/share/mobile_robot/model/robot.urdf.xacro
+[0.344s] -- Up-to-date: /home/dev/robot0_ws/install/mobile_robot/share/mobile_robot/launch
+[0.345s] -- Up-to-date: /home/dev/robot0_ws/install/mobile_robot/share/mobile_robot/launch/gazibo.launch.py
+[0.345s] -- Up-to-date: /home/dev/robot0_ws/install/mobile_robot/share/ament_index/resource_index/package_run_dependencies/mobile_robot
+[0.346s] -- Up-to-date: /home/dev/robot0_ws/install/mobile_robot/share/ament_index/resource_index/parent_prefix_path/mobile_robot
+[0.346s] -- Up-to-date: /home/dev/robot0_ws/install/mobile_robot/share/mobile_robot/environment/ament_prefix_path.sh
+[0.347s] -- Up-to-date: /home/dev/robot0_ws/install/mobile_robot/share/mobile_robot/environment/ament_prefix_path.dsv
+[0.347s] -- Up-to-date: /home/dev/robot0_ws/install/mobile_robot/share/mobile_robot/environment/path.sh
+[0.348s] -- Up-to-date: /home/dev/robot0_ws/install/mobile_robot/share/mobile_robot/environment/path.dsv
+[0.349s] -- Up-to-date: /home/dev/robot0_ws/install/mobile_robot/share/mobile_robot/local_setup.bash
+[0.351s] -- Up-to-date: /home/dev/robot0_ws/install/mobile_robot/share/mobile_robot/local_setup.sh
+[0.352s] -- Up-to-date: /home/dev/robot0_ws/install/mobile_robot/share/mobile_robot/local_setup.zsh
+[0.353s] -- Up-to-date: /home/dev/robot0_ws/install/mobile_robot/share/mobile_robot/local_setup.dsv
+[0.354s] -- Installing: /home/dev/robot0_ws/install/mobile_robot/share/mobile_robot/package.dsv
+[0.355s] -- Up-to-date: /home/dev/robot0_ws/install/mobile_robot/share/ament_index/resource_index/packages/mobile_robot
+[0.356s] -- Up-to-date: /home/dev/robot0_ws/install/mobile_robot/share/mobile_robot/cmake/mobile_robotConfig.cmake
+[0.356s] -- Up-to-date: /home/dev/robot0_ws/install/mobile_robot/share/mobile_robot/cmake/mobile_robotConfig-version.cmake
+[0.357s] -- Up-to-date: /home/dev/robot0_ws/install/mobile_robot/share/mobile_robot/package.xml
+[0.358s] Invoked command in '/home/dev/robot0_ws/build/mobile_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/dev/robot0_ws/build/mobile_robot
